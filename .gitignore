@@ -1,24 +1,12 @@
-# IntelliJ IDEA
+# IntelliJ
 .idea/
 *.iml
-
-# Java
-*.class
-out/
 
 # Maven
 target/
 
-# Gradle
-.gradle/
-build/
-
-# Node.js / React
-node_modules/
-dist/
-
-# Logs
-*.log
+# Build folders
+out/
 
 # OS files
 .DS_Store
